@@ -3,3 +3,4 @@ this is a cat!
 end---
 
 change1
+new add
